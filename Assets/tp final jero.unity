@@ -1808,8 +1808,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Spawn: []
   Spawned: []
-  PanCampoVacio: {fileID: 0}
-  PanRespuesta: {fileID: 0}
+  PanelSinRespuesta: {fileID: 0}
+  PanelRespuesta: {fileID: 0}
   InfNum: {fileID: 0}
   TXTRespuesta: {fileID: 0}
   repetir: {fileID: 0}
@@ -2551,7 +2551,7 @@ GameObject:
   - component: {fileID: 1631928932}
   - component: {fileID: 1631928931}
   m_Layer: 5
-  m_Name: InputField
+  m_Name: TxtResultado
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
